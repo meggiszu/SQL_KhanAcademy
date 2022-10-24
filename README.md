@@ -1,6 +1,4 @@
-# SQL_KhanAcademy
-
-SQL examples from Khan Academy
+# Intro to SQL: Querying and managing data
 
 This GitHub repository contains the questions and solutions to [Intro To SQL: Querying and managing data](https://www.khanacademy.org/computing/computer-programming/sql)
 
